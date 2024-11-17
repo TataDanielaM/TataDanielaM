@@ -1,10 +1,18 @@
 # Hello, I'm Daniela Tata  
-<a href="https://www.linkedin.com/in/daniela-tata-87409b312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-<a href="mailto:tatadaniela6@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-<a href="tel:+14373836878"><img src="https://img.shields.io/badge/-Phone-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
-<a href="https://www.instagram.com/daniela_tata"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
-
----
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <a href="https://www.linkedin.com/in/daniela-tata-87409b312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:tatadaniela6@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="tel:+14373836878">
+        <img src="https://img.shields.io/badge/-Phone-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/daniela_tata">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+</div>
 
 ## 🚀 About Me  
 Today’s businesses are swimming in a sea of data but often face challenges turning that data into actionable strategies. Companies want to move from **static reporting** to **real-time insights**, from **gut-based decisions** to **predictive analytics**, and from **isolated data silos** to **integrated, customer-focused strategies**.  
@@ -91,11 +99,20 @@ Graduated with a focus on leveraging digital platforms and analytics to enhance 
 
 ## 📫 Connect with Me  
 
-<a href="https://www.linkedin.com/in/daniela-tata-87409b312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-<a href="mailto:tatadaniela6@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-<a href="tel:+14373836878"><img src="https://img.shields.io/badge/-Phone-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
-<a href="https://www.instagram.com/daniela_tata"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
-
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <a href="https://www.linkedin.com/in/daniela-tata-87409b312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:tatadaniela6@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="tel:+14373836878">
+        <img src="https://img.shields.io/badge/-Phone-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/daniela_tata">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+</div>
 ---
 
 **Daniela Tata**  
