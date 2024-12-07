@@ -98,7 +98,7 @@ Graduated with a focus on leveraging digital platforms and analytics to enhance 
 
 ---
 ## My Personal RoadMap
-![Personal Roadmap]("My PersonaL RoadMap.png")
+![Personal Roadmap]("https://github.com/TataDanielaM/TataDanielaM/blob/main/My%20PersonaL%20RoadMap.png")
 
 
 ## 📫 Connect with Me  
