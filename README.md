@@ -27,6 +27,7 @@ With a blend of technical expertise and strong communication skills, I collabora
 
 My mission is simple: **empowering organizations to make data-driven decisions that drive growth, efficiency, and innovation.**  
 
+
 ---
 
 ---
@@ -96,6 +97,8 @@ Graduated with a focus on leveraging digital platforms and analytics to enhance 
 - Created dashboards in Power BI to present campaign performance to stakeholders.  
 
 ---
+## My Personal RoadMap
+<img src="C:\Users\PC\Downloads\Blank diagram (1).png />
 
 ## 📫 Connect with Me  
 
