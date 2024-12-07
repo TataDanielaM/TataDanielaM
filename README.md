@@ -98,7 +98,8 @@ Graduated with a focus on leveraging digital platforms and analytics to enhance 
 
 ---
 ## My Personal RoadMap
-<img src="C:\Users\PC\Downloads\Blank diagram (1).png />
+![Personal Roadmap]("C:\Users\PC\Downloads\Blank diagram (1).png")
+
 
 ## 📫 Connect with Me  
 
